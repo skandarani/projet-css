@@ -1,0 +1,90 @@
+.cover {
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-image: url('https://www.360.org/pictures/2017/golden-gate-san-francisco.jpg');
+    background-size: 100%;
+    background-position: center center;
+}
+
+.cover .titre {
+    color:rgba(197, 197, 187, 0.932);
+    position: relative;
+    top: 10%;
+    font-size: 2.5em;
+    text-align: center;
+
+    
+}
+
+.art{
+    color: brown;
+    font-size: 3em;
+    width: 80%;
+    margin: auto;
+    margin: 10px;
+
+    
+}
+
+
+.partoneprinc {
+    background-color: #eee ; 
+      
+    padding: 45px;
+    width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+ 
+  
+}
+
+.partoneprinc1 {
+    background-color: #333;
+    color: aliceblue;
+    padding: 45px;
+    width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.partoneprinc:hover{
+    outline: 5px solid orange;
+   
+    outline-offset: -5px;
+}
+.partoneprinc1:hover{
+    outline: 5px solid orange;
+   
+    outline-offset: -5px;
+}
+.partone{
+    font-size:2em;
+    color: tomato;
+    font-family: 'Bree Serif', serif;
+    margin: 0 0 20px 0;
+    
+}
+
+.contenue1 {
+   
+    font-size: 1em;
+    font-family: 'Ropa Sans', sans-serif;
+    
+}
+
+.first{
+    width: auto;
+    margin: 0 10% 0 10%;
+    margin-bottom: 300px ;
+
+}
+
+/* .first1{
+    width: auto;
+    margin: 0 10% 0 10%
+} */
+
